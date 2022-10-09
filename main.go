@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"example.com/airvisual"
+	"github.com/Marsei-L/airvisual.go"
 )
 
 func main() {
